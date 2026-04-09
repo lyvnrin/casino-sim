@@ -14,7 +14,7 @@ Each game (blackjack, baccarat, poker) is simulated at scale across varying play
 
 The key variables are house edge, hands per hour, and throughput - and how they interact when you remove the friction of multi-player rounds.
 
-The AI/automation extension models faster shuffle and deal speeds as a throughput multiplier, then estimates ROI against a hypothetical capital investment.
+**Extension**: The AI/automation extension models faster shuffle and deal speeds as a throughput multiplier, then estimates ROI against a hypothetical capital investment.
 
 ## Games
 
