@@ -10,9 +10,7 @@ A Python-based simulation and data analysis project exploring casino game econom
 
 ## Approach
 
-Each game (blackjack, baccarat, poker) is simulated at scale across varying player counts.
-
-The key variables are house edge, hands per hour, and throughput - and how they interact when you remove the friction of multi-player rounds.
+Each game (blackjack, baccarat, poker) is simulated at scale across varying player counts. The key variables are house edge, hands per hour, and throughput - and how they interact when you remove the friction of multi-player rounds.
 
 **Extension**: The AI/automation extension models faster shuffle and deal speeds as a throughput multiplier, then estimates ROI against a hypothetical capital investment.
 
